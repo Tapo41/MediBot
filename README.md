@@ -11,8 +11,5 @@ YANA (You Are Not Alone) is a chatbot developed by the team <b>ACROSSTECH</b> fr
 - Bootstrap <br>
 
 ## Made by:
-- MAGTAGNOB, John Dave G.<br>
-- ECHALAS, Francis Elijah A.<br>
-- FRANCISCO, Jhon Lorence T.<br>
-- PRIETO, John Patrick M.<br>
-- ZARAGOZA, Engelrhand Matthew A.<br>
+- Tapojita Kar
+
